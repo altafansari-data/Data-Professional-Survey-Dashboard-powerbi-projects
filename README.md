@@ -60,3 +60,8 @@ The dataset includes responses from data professionals with the following fields
 ## Outcome
 This dashboard helps understand industry trends and provides valuable insights for aspiring data professionals and businesses.
 
+
+## 👤 Author
+
+Altaf Ansari
+Aspiring Data Analyst | SQL Developer
