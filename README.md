@@ -1,14 +1,14 @@
-# 📊 Data Professional Survey Dashboard (Power BI)
+# Data Professional Survey Dashboard (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes survey data from data professionals across different roles, countries, and experience levels. The dashboard provides insights into salary trends, job satisfaction, and career challenges in the data industry.
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI  
 - Power Query (Data Cleaning & Transformation)  
 - DAX (Data Analysis Expressions)  
 
-## 📂 Dataset
+## Dataset
 The dataset includes responses from data professionals with the following fields:
 - Job Title  
 - Salary  
@@ -18,14 +18,14 @@ The dataset includes responses from data professionals with the following fields
 - Work-Life Balance  
 - Difficulty to Break into Data  
 
-## 🔍 Key Analysis
+## Key Analysis
 - Average salary by job role  
 - Job satisfaction and work-life balance trends  
 - Country-wise salary comparison  
 - Popular programming languages among data professionals  
 - Difficulty level of entering the data field  
 
-## 📈 Dashboard Features
+## Dashboard Features
 - Interactive visuals with slicers (gender wise)  
 - KPI cards for key metrics (Average age, total survey taker)
 
@@ -35,7 +35,7 @@ The dataset includes responses from data professionals with the following fields
 - Bar charts, gauge, and tree-map visualization  
 - Clean and user-friendly layout for better insights  
 
-## 💡 Key Insights
+## Key Insights
 - Data Scientists and Data Engineers tend to have higher average salaries
 
    <img width="256" height="137" alt="average salary by job title" src="https://github.com/user-attachments/assets/3395d9a5-c4d6-4ec0-92b6-027d5983880f" />
@@ -57,6 +57,6 @@ The dataset includes responses from data professionals with the following fields
 
 
 
-## 🚀 Outcome
+## Outcome
 This dashboard helps understand industry trends and provides valuable insights for aspiring data professionals and businesses.
 
